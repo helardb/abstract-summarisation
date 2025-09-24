@@ -1,0 +1,15 @@
+topic,Lecture,summary,coherence,consistency,fluency,relevance
+Physical science,Natural science,LLM,5,5,3,5
+Physical science,Natural science,Human,4,5,3,5
+Neuroscience,Natural science,Human,5,5,3,5
+Neuroscience,Natural science,LLM,5,5,3,5
+Literature,Humanities,Human,4,4,3,4
+Literature,Humanities,LLM,5,5,3,5
+Mathematics,Mathematics,Human,5,5,3,5
+Mathematics,Mathematics,LLM,4,5,3,4
+Organic chemistry,Natural science,Human,5,5,3,5
+Organic chemistry,Natural science,LLM,5,5,3,5
+History,Humanities,Human,2,1,3,1
+History,Humanities,LLM,1,1,2,1
+Psychology,Humanities,Human,5,5,3,5
+Psychology,Humanities,LLM,5,5,3,5

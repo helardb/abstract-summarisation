@@ -1,0 +1,51 @@
+age,english_L1,education,field,understanding,Lecture,readability,accuracy,useful,preference
+25-34,Yes,PHD ,Materials Science,Understood everything,Humanities,LLM,Human,Human,Human
+35-44,Yes,"Bachelors, or similar",Mechanical Engineering,Understood everything,Humanities,LLM,LLM,LLM,LLM
+25-34,Yes,Masters or similar,Visual Communications,Understood the general idea,Humanities,LLM,Human,LLM,LLM
+25-34,Yes,PHD ,Materials Science,Understood everything,Mathematics,Human,LLM,Human,Human
+35-44,Yes,"Bachelors, or similar",Mechanical Engineering,Understood most points,Mathematics,Human,LLM,Human,Human
+25-34,Yes,Masters or similar,Visual Communications,Understood most points,Mathematics,LLM,Human,LLM,LLM
+25-34,Yes,"Bachelors, or similar",Business management,Understood most points,Humanities,LLM,LLM,LLM,LLM
+18-24,Yes,"Bachelors, or similar",Commerce,Understood most points,Humanities,LLM,LLM,LLM,LLM
+18-24,No,"Bachelors, or similar",biomedical science,Understood most points,Humanities,LLM,LLM,LLM,LLM
+25-34,Yes,"Bachelors, or similar",Physics ,Understood everything,Humanities,LLM,Human,Human,LLM
+25-34,Yes,"Bachelors, or similar",Business management,Understood most points,Natural Science,LLM,LLM,LLM,LLM
+18-24,Yes,"Bachelors, or similar",Commerce,Understood most points,Natural Science,LLM,LLM,LLM,LLM
+18-24,No,"Bachelors, or similar",biomedical science,Understood everything,Natural Science,LLM,Human,Human,Human
+25-34,Yes,"Bachelors, or similar",Physics ,Understood everything,Natural Science,LLM,LLM,LLM,LLM
+55-64,No,Masters or similar,master in business administration,Understood most points,Humanities,LLM,LLM,LLM,LLM
+55-64,Yes,"Bachelors, or similar",Human Resources,Understood everything,Humanities,LLM,LLM,Human,LLM
+25-34,Yes,Masters or similar,"International Peace building, Security and Development Practice ",Understood everything,Humanities,LLM,LLM,LLM,LLM
+55-64,No,Masters or similar,master in business administration,Understood everything,Natural Science,Human,LLM,LLM,LLM
+55-64,Yes,"Bachelors, or similar",Human Resources,Understood the general idea,Natural Science,LLM,Human,LLM,LLM
+25-34,Yes,Masters or similar,"International Peace building, Security and Development Practice ",Understood most points,Natural Science,Human,Human,Human,Human
+65+,Yes,Masters or similar,Law,Understood everything,Humanities,LLM,LLM,LLM,LLM
+65+,Yes,"Bachelors, or similar",,Understood the general idea,Humanities,LLM,LLM,LLM,LLM
+25-34,Yes,Apprenticeship,,Understood the general idea,Humanities,LLM,LLM,LLM,LLM
+25-34,Yes,"Bachelors, or similar",Computer Science,Understood most points,Humanities,LLM,Human,LLM,LLM
+25-34,Yes,Masters or similar,Electronic and Computer Engineering,Understood most points,Humanities,LLM,LLM,Human,LLM
+65+,Yes,Masters or similar,Law,Understood the general idea,Natural Science,Human,Human,Human,Human
+65+,Yes,"Bachelors, or similar",,Understood the general idea,Natural Science,LLM,Human,Human,Human
+25-34,Yes,Apprenticeship,,Understood the general idea,Natural Science,LLM,LLM,LLM,LLM
+25-34,Yes,"Bachelors, or similar",Computer Science,Understood the general idea,Natural Science,LLM,Human,Human,LLM
+25-34,Yes,Masters or similar,Electronic and Computer Engineering,Understood only a few points,Natural Science,Human,LLM,LLM,LLM
+45-54,Yes,Apprenticeship,,Understood most points,Humanities,LLM,LLM,LLM,LLM
+25-34,Yes,Masters or similar,Data Science ,Understood most points,Humanities,Human,LLM,Human,Human
+25-34,Yes,Secondary school,,Understood most points,Humanities,LLM,LLM,LLM,LLM
+45-54,Yes,Apprenticeship,,Understood the general idea,Natural Science,LLM,Human,LLM,LLM
+25-34,Yes,Masters or similar,Data Science ,Understood everything,Natural Science,LLM,Human,LLM,LLM
+25-34,Yes,Secondary school,,Understood most points,Natural Science,LLM,Human,Human,Human
+55-64,Yes,"Bachelors, or similar",Social Science Degree,Understood most points,Humanities,LLM,Human,Human,Human
+25-34,Yes,"Bachelors, or similar",Theoretical Physics,Understood everything,Humanities,LLM,LLM,LLM,LLM
+55-64,Yes,"Bachelors, or similar",Science,Understood most points,Humanities,LLM,LLM,LLM,LLM
+55-64,Yes,"Bachelors, or similar",Social Science Degree,Understood the general idea,Natural Science,LLM,Human,LLM,LLM
+25-34,Yes,"Bachelors, or similar",Theoretical Physics,Understood the general idea,Natural Science,LLM,LLM,LLM,LLM
+55-64,Yes,"Bachelors, or similar",Science,Understood everything,Natural Science,LLM,LLM,LLM,LLM
+18-24,No,"Bachelors, or similar",Geography,Understood the general idea,Mathematics,LLM,LLM,LLM,LLM
+65+,Yes,Secondary school,,Understood only a few points,Mathematics,Human,Human,Human,Human
+55-64,Yes,"Bachelors, or similar",Education ,Understood everything,Mathematics,Human,Human,Human,Human
+65+,Yes,"Bachelors, or similar",,Understood everything,Mathematics,LLM,LLM,LLM,LLM
+18-24,No,"Bachelors, or similar",Geography,Understood most points,Natural Science,LLM,LLM,LLM,LLM
+65+,Yes,Secondary school,,Understood only a few points,Natural Science,Human,Human,Human,Human
+55-64,Yes,"Bachelors, or similar",Education ,Understood only a few points,Natural Science,Human,Human,Human,Human
+65+,Yes,"Bachelors, or similar",,Understood most points,Natural Science,LLM,LLM,LLM,LLM
